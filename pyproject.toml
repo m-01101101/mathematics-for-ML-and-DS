@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mathematics-for-ml-and-ds"
+version = "0.1.0"
+description = ""
+authors = ["michael <23582917+m-01101101@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+nbdev = "^2.3.9"
+notebook = "^6.5.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

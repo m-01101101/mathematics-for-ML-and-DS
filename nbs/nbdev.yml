@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mathematics-for-ML-and-DS"
+  site-url: "https://m-01101101.github.io/mathematics-for-ML-and-DS"
+  description: "https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/"
+  repo-branch: main
+  repo-url: "https://github.com/m-01101101/mathematics-for-ML-and-DS"
